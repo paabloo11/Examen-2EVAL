@@ -1,0 +1,38 @@
+h2.fondo {
+    text-align: center;
+    color: blue;
+    background-color: lightpink;
+    text-decoration-line: underline;    
+}
+nav {
+    background-color: aliceblue;
+    color: royalblue;
+    text-align: center;
+}
+div.edicions {
+    text-align: left;
+    background-color: lightsalmon;
+}
+p.color {
+    color: blue;
+}
+div.salmon{
+    background-color: lightsalmon;
+    text-align: center;
+}
+h3.color{
+    color: blue;
+}
+b.groc{
+    color: yellow;
+}
+b.roig{
+    color: red;
+}
+div.verd{
+    background-color: lightgreen;
+    text-align: center;
+}
+ol.centre{
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+h2.fondo {
+    text-align: center;
+    color: blue;
+    background-color: lightpink;
+    text-decoration-line: underline;    
+}
+nav {
+    background-color: aliceblue;
+    color: royalblue;
+    text-align: center;
+}
+div.edicions {
+    text-align: left;
+    background-color: lightsalmon;
+}
+p.color {
+    color: blue;
+}
+p.rojo{
+    color: red;
+}
+div.nominats{
+    background-color: lightseagreen;
+}
+div.contacte{
+    background-color: lightsalmon;
+}
+footer{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    border: 1px;
+}
